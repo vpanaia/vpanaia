@@ -8,7 +8,7 @@ When I’m not coding, you can find me exploring new music or working on creativ
 
 ## :hammer_and_wrench: What I Do
 
-![SaaS](https://img.shields.io/badge/SaaS-6C63FF?style=for-the-badge&logo=saas&logoColor=ffffff) ![Web Apps](https://img.shields.io/badge/Web%20Applications-1ABC9C?style=for-the-badge) ![Full-Stack Web Apps](https://img.shields.io/badge/Full--Stack%20Apps-3498DB?style=for-the-badge) ![REST API](https://img.shields.io/badge/REST%20API-2ECC71?style=for-the-badge) ![Microservices](https://img.shields.io/badge/Microservices-E67E22?style=for-the-badge) ![Real-time Apps](https://img.shields.io/badge/Real--time%20Websocket-9B59B6?style=for-the-badge)
+![SaaS](https://img.shields.io/badge/SaaS-FE4A49?style=for-the-badge) ![Web Apps](https://img.shields.io/badge/Web%20Applications-2AB7CA?style=for-the-badge) ![Full-Stack Web Apps](https://img.shields.io/badge/Full--Stack%20Apps-00A8A8?style=for-the-badge) ![REST API](https://img.shields.io/badge/REST%20API-FFA500?style=for-the-badge) ![Microservices](https://img.shields.io/badge/Microservices-FF715B?style=for-the-badge) ![Real-time Apps](https://img.shields.io/badge/Real--time%20Websocket-9D65C9?style=for-the-badge) ![IoT](https://img.shields.io/badge/IoT-3B9C9C?style=for-the-badge) ![IIoT](https://img.shields.io/badge/IIoT-FF6361?style=for-the-badge)
 
 ---
 
@@ -32,7 +32,7 @@ When I’m not coding, you can find me exploring new music or working on creativ
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff) ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ffffff) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff) ![Termius](https://img.shields.io/badge/Termius-272B3D?style=for-the-badge&logo=termius&logoColor=ffffff) ![Unix Shell](https://img.shields.io/badge/Unix%20Shell-000000?style=for-the-badge) ![Shell Script](https://img.shields.io/badge/Shell%20Script-89e051?style=for-the-badge&logo=gnu-bash&logoColor=000000)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff) ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ffffff) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=ffffff) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff) ![Termius](https://img.shields.io/badge/Termius-272B3D?style=for-the-badge&logo=termius&logoColor=ffffff) ![Unix Shell](https://img.shields.io/badge/Unix%20Shell-000000?style=for-the-badge) ![Shell Script](https://img.shields.io/badge/Shell%20Script-89e051?style=for-the-badge&logo=gnu-bash&logoColor=000000)
 
 ### IDEs
 
