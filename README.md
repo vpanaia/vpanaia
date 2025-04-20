@@ -8,7 +8,7 @@ When I’m not coding, you can find me exploring new music or working on creativ
 
 ## :hammer_and_wrench: What I Do
 
-![SaaS](https://img.shields.io/badge/SaaS-4E4E4E?style=for-the-badge) ![Web Apps](https://img.shields.io/badge/Web%20Applications-1E90FF?style=for-the-badge) ![RESTful API](https://img.shields.io/badge/RESTful%20Services-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff) ![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge) ![Real-time Apps](https://img.shields.io/badge/Real--time%20Websocket-FF4088?style=for-the-badge) ![GraphQL API](https://img.shields.io/badge/GraphQL-171717?style=for-the-badge&logo=graphql)
+![SaaS](https://img.shields.io/badge/SaaS-4E4E4E?style=for-the-badge) ![Web Apps](https://img.shields.io/badge/Web%20Applications-1E90FF?style=for-the-badge) ![Full-Stack Web Apps](https://img.shields.io/badge/Full--Stack%20Apps-007ACC?style=for-the-badge) ![REST API](https://img.shields.io/badge/REST%20API-4E4E4E?style=for-the-badge) ![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge) ![Real-time Apps](https://img.shields.io/badge/Real--time%20Websocket-FF4088?style=for-the-badge) ![GraphQL API](https://img.shields.io/badge/GraphQL-171717?style=for-the-badge&logo=graphql)
 
 ---
 
@@ -20,7 +20,7 @@ When I’m not coding, you can find me exploring new music or working on creativ
 
 ### Backend
 
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=ffffff) ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff) ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff) ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffffff) ![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=kotlin&logoColor=ffffff) ![CakePHP](https://img.shields.io/badge/cakephp-D33C43?style=for-the-badge&logo=cakephp&logoColor=ffffff) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff) ![Symfony](https://img.shields.io/badge/symfony-000000?style=for-the-badge&logo=symfony&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=ffffff) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff) ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff) ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffffff) ![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=kotlin&logoColor=ffffff) ![CakePHP](https://img.shields.io/badge/cakephp-D33C43?style=for-the-badge&logo=cakephp&logoColor=ffffff) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff) ![Symfony](https://img.shields.io/badge/symfony-000000?style=for-the-badge&logo=symfony&logoColor=ffffff)
 
 ### Database
 
@@ -28,7 +28,7 @@ When I’m not coding, you can find me exploring new music or working on creativ
 
 ### API & Realtime
 
-![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=ffffff) ![WebSocket](https://img.shields.io/badge/WebSocket-FF4088?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-4E4E4E?style=for-the-badge) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=ffffff) ![WebSocket](https://img.shields.io/badge/WebSocket-FF4088?style=for-the-badge)
 
 ### DevOps & Tools
 
