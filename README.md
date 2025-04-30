@@ -26,9 +26,9 @@ When I’m not coding, you can find me exploring new music or working on creativ
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff) ![SQL Server](https://img.shields.io/badge/SQL%20Server-AC272A?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff) ![FerretDB](https://img.shields.io/badge/FerretDB-F05656?style=for-the-badge)
 
-### API & Realtime
+### API
 
-![REST API](https://img.shields.io/badge/REST%20API-4E4E4E?style=for-the-badge) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=ffffff) ![WebSocket](https://img.shields.io/badge/WebSocket-FF4088?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-4E4E4E?style=for-the-badge) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=ffffff) ![WebSocket](https://img.shields.io/badge/WebSocket-FF4088?style=for-the-badge) ![OPC Unified Architecture](https://img.shields.io/badge/OPC%20Unified%20Architecture-005B94?style=for-the-badge)
 
 ### DevOps & Tools
 
